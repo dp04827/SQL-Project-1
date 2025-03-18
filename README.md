@@ -4,11 +4,11 @@
 21484 Group 3
 
 # **Group Members**
-Elle Wolf  
-Dev Patel  
-Jim Jones  
-Justin Lee  
-Chris DiBiasi  
+1. Elle Wolf  
+2. Dev Patel  
+3. Jim Jones  
+4. Justin Lee  
+5. Chris DiBiasi  
 
 # **Problem Description**
 
