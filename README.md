@@ -1,4 +1,8 @@
 # SQL Project 1 - Fitness App
+
+# Team Name:
+21484 Group 3
+
 # **Problem Description**
 
   The task at hand is to model and build a relational database for the general operations of a fitness and health app that collects and analyzes daily health and fitness data from its users. The central entity in the model is the Person entity, who is the user of the app. The goal is for each individual who registers on the app to track their exercise, nutrition, sleep, and overall health.
