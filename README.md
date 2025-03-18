@@ -5,10 +5,10 @@
 
 # **Group Members**
 Elle Wolf  
-Dev Patel
-Jim Jones
-Justin Lee
-Chris DiBiasi
+Dev Patel  
+Jim Jones  
+Justin Lee  
+Chris DiBiasi  
 
 # **Problem Description**
 
