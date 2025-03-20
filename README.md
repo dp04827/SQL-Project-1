@@ -132,6 +132,7 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 
 # **Queries**
+![image](https://github.com/user-attachments/assets/2d8b68ac-9695-4746-b272-8be21538c357)
 
 # **Database Information**  
 Name of the database- al_Group_21484_G3
