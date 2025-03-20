@@ -25,7 +25,11 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 
 
-# **Data Dictionary**  
+# **Data Dictionary**   
+| Column Name | Data Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
 # **Ten Queries**  
 
 
