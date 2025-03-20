@@ -90,6 +90,11 @@ A large portion of what we would like this app to be used for is fitness. Many o
    - **Purpose:** This helps managers understand the intensity of workouts and how effective they are for users’ fitness goals.
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/d5feff7f-9f11-4df9-bc37-817b62c75b95" />
 
+7. **Get the average body temperature of all users on a specific date and compare it to the normal range.**
+   - **Purpose:** This query could help monitor users' health and alert managers to any abnormal readings that might indicate health risks.
+<img width="839" alt="image" src="https://github.com/user-attachments/assets/988c01d5-4d01-42a0-b098-3e567d2767e4" />
+
+
 8. **Find the number of users who have logged sleep data and report the average sleep hours per day.**
    - **Purpose:** Managers need to assess user engagement with sleep tracking and the effectiveness of sleep-related recommendations.
 <img width="448" alt="image" src="https://github.com/user-attachments/assets/6a165ac9-5e73-484d-8e3e-8352c78c2b32" />
