@@ -92,8 +92,8 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 6. **Get users who have a weight loss goal and have burned more than 300 calories in the past week.**
    - **Purpose:** Managers would care about tracking the effectiveness of fitness plans and motivating users toward their goals.
-<img width="276" alt="Screenshot 2025-03-20 at 7 08 58 PM" src="https://github.com/user-attachments/assets/581b315a-3b78-4784-b410-121b1676f0ef" />
-<img width="159" alt="Screenshot 2025-03-20 at 7 09 16 PM" src="https://github.com/user-attachments/assets/198d5f16-92ec-4822-9f22-b21701af33c5" />
+<img width="197" alt="Screenshot 2025-03-20 at 7 17 44 PM" src="https://github.com/user-attachments/assets/e4e42b76-af74-48c5-93eb-b5eee77a9a04" />
+<img width="290" alt="Screenshot 2025-03-20 at 7 18 02 PM" src="https://github.com/user-attachments/assets/a117965c-4863-4697-baba-de6b564bac6b" />
 
 
 7. **Get the average body temperature of all users on a specific date and compare it to the normal range.**
