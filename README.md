@@ -78,7 +78,7 @@ A large portion of what we would like this app to be used for is fitness. Many o
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/810ae4d4-cf9f-448d-b515-728deaa0e5db" />
 
 
-4)**Get the total hours of sleep recorded for a user in the last month**
+4. **Get the total hours of sleep recorded for a user in the last month**
 -**Purpose:** Managers would use this to analyze user sleep patterns and how they correlate with fitness goals.
 
 # **Database Information**  
