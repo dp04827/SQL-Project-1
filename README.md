@@ -77,6 +77,11 @@ A large portion of what we would like this app to be used for is fitness. Many o
    - **Purpose:** This query helps the app collect the most basic nutrition data from users to make dietary recommendations.
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/810ae4d4-cf9f-448d-b515-728deaa0e5db" />
 
+#**Database Information**  
+##Name of the database- al_Group_21484_G3
+
+
+
 
 
 
