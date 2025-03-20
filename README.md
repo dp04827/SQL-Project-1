@@ -16,6 +16,9 @@
 The app provides various features, including workout plans, diet tracking, activity monitoring, and personalized coaching, all of which are linked to user engagement and fitness progress. We aim to accurately model the relationships between users, their fitness activities, nutritional habits, health metrics,  and subscription plans. Additionally, we will generate sample data to populate into our entities and their attributes. Finally, we will perform functional queries on this dataset to extract valuable insights regarding user behavior, workout effectiveness, engagement trends, and overall app performance.  
 
 # **Data Model**  
+<img width="1073" alt="image" src="https://github.com/user-attachments/assets/fb345639-bdb8-4ea5-8d0b-797a908e2d07" />  
+
+
 ### **Data Model Explanation**  
 Our model is based on the structure of a hypothetical fitness app. The **Person** entity is representative of the person using the app, and we collect different data points related to their health metrics. The idea behind the app is to help users reach their fitness goals. For example, a user may want to run a faster mile. Our app, “SQL Fit”, is able to track the users progress through their input of data. Things like minutes exercised, heart rate, and calories burned are all collected. These metrics are vital to the app to make predictions on how to help the user reach their goal.  
 
@@ -35,7 +38,8 @@ A large portion of what we would like this app to be used for is fitness. Many o
 ## Simple Queries
 1. **Retrieve all users who have registered in the system.**
    - **Purpose:** Managers need to know how many users have signed up to track growth and engagement.
-<img width="382" alt="image" src="https://github.com/user-attachments/assets/f68bccb0-d00a-4727-9796-f924cc6ec072" />
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/b5d62c61-d454-4030-8df7-8c202c60ca8d" />
+
 
   
 2. **Get the percent of sleep a user was in REM sleep for and the date logged.**
