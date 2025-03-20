@@ -36,7 +36,13 @@ A large portion of what we would like this app to be used for is fitness. Many o
 1. Retrieve all users who have registered in the system.
    - **Purpose:** Managers need to know how many users have signed up to track growth and engagement.
 
-<img width="382" alt="image" src="https://github.com/user-attachments/assets/f68bccb0-d00a-4727-9796-f924cc6ec072" />
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/f68bccb0-d00a-4727-9796-f924cc6ec072" />  
+
+2. Get the percent of sleep a user was in REM sleep for and the date logged.
+   - **Purpose:** Managers could use this to assess sleep habits and overall quality of sleep for users.  
+
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/0ce1fbe4-4478-4578-972a-93170de2b66d" />
+
 
 
 
