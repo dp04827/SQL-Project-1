@@ -89,8 +89,11 @@ A large portion of what we would like this app to be used for is fitness. Many o
 5. **Retrieve the average heart rate during workouts, along with the average calories burned.**
    - **Purpose:** This helps managers understand the intensity of workouts and how effective they are for users’ fitness goals.
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/d5feff7f-9f11-4df9-bc37-817b62c75b95" />
+
 6. **Get users who have a weight loss goal and have burned more than 300 calories in the past week.**
    - **Purpose:** Managers would care about tracking the effectiveness of fitness plans and motivating users toward their goals.
+<img width="382" alt="Screenshot 2025-03-20 at 5 50 57 PM" src="https://github.com/user-attachments/assets/57f5e175-cc5c-4cfe-b1ee-2e3e4940895f" />
+<img width="137" alt="Screenshot 2025-03-20 at 5 52 17 PM" src="https://github.com/user-attachments/assets/91dc029c-cb4b-475e-8b26-66b2cc7a3b02" />
 
 
 7. **Get the average body temperature of all users on a specific date and compare it to the normal range.**
