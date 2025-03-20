@@ -119,7 +119,7 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 
 
-
+# **Queries**
 
 # **Database Information**  
 Name of the database- al_Group_21484_G3
