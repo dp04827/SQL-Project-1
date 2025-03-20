@@ -28,11 +28,9 @@ A large portion of what we would like this app to be used for is fitness. Many o
 # **Data Dictionary**  
 ## **Person**  
 
-| Column Name | Data Type     | Description                       | Length | Key?     | 
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
+| Parameter | Type     | Description                | blah | blah |  
+| :-------- | :------- | :------------------------- | blah | blah |  
+| `api_key` | `string` | **Required**. Your API key | blah | blah |  
 
 # **Ten Queries**  
 
