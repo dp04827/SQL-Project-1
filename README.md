@@ -33,7 +33,7 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 # **Ten Queries** 
 ## Simple Queries
-1. Retrieve all users who have registered in the system.**
+1. Retrieve all users who have registered in the system.
    - **Purpose:** Managers need to know how many users have signed up to track growth and engagement.
 
 <img width="382" alt="image" src="https://github.com/user-attachments/assets/f68bccb0-d00a-4727-9796-f924cc6ec072" />
