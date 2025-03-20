@@ -77,13 +77,46 @@ A large portion of what we would like this app to be used for is fitness. Many o
    - **Purpose:** This query helps the app collect the most basic nutrition data from users to make dietary recommendations.
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/810ae4d4-cf9f-448d-b515-728deaa0e5db" />
 
+4. 
 
-4. **Get the total hours of sleep recorded for a user in the last month**
-- **Purpose:** Managers would use this to analyze user sleep patterns and how they correlate with fitness goals.
+
+
+### Complex Queries 
+5. **Retrieve the average heart rate during workouts, along with the average calories burned.**
+   - **Purpose:** This helps managers understand the intensity of workouts and how effective they are for users’ fitness goals.
+<img width="460" alt="image" src="https://github.com/user-attachments/assets/d5feff7f-9f11-4df9-bc37-817b62c75b95" />
+
+8. **Find the number of users who have logged sleep data and report the average sleep hours per day.**
+   - **Purpose:** Managers need to assess user engagement with sleep tracking and the effectiveness of sleep-related recommendations.
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/6a165ac9-5e73-484d-8e3e-8352c78c2b32" />
+
+9. **Retrieve users who have met their fitness goals based on both exercise and diet metrics.**
+   - **Purpose:** A manager would need to know which users are achieving their fitness targets to identify success stories or patterns.
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/51c61be5-7c97-4987-8272-dad95808dfd1" />
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/a11bc2fd-a249-4cd2-83a2-e63611b32800" />
+
+
+
+10. **Get the number of calories burned by each user, with their average heart rate, and identify the top 5 most active users.**
+    - **Purpose:** Managers can use this data to understand which users are the most engaged and to adjust their strategies accordingly.
+<img width="493" alt="image" src="https://github.com/user-attachments/assets/18d375da-941e-4ec1-8902-65c7a3723550" />
+<img width="493" alt="image" src="https://github.com/user-attachments/assets/2ef1fb2f-05cf-42db-817a-e6705820ad7a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # **Database Information**  
 Name of the database- al_Group_21484_G3
-
 
 
 
