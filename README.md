@@ -77,7 +77,11 @@ A large portion of what we would like this app to be used for is fitness. Many o
    - **Purpose:** This query helps the app collect the most basic nutrition data from users to make dietary recommendations.
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/810ae4d4-cf9f-448d-b515-728deaa0e5db" />
 
-4. 
+4. **Get the total hours of sleep recorded for a user in the last month.**
+   - **Purpose:** Managers would use this to analyze user sleep patterns and how they correlate with fitness goals.
+  <img width="473" alt="image" src="https://github.com/user-attachments/assets/19d7ea19-322a-4aae-9d7f-9c44f955fc44" />
+
+
 
 
 
