@@ -29,7 +29,33 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 
 # **Data Dictionary**  
-## **Person**  
+<img width="772" alt="image" src="https://github.com/user-attachments/assets/ba21ccd2-f4b8-4fc4-a214-8484c0e772e0" />
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/fe493bf7-ac99-4a70-9f57-dcfbb9d34fe9" />
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/c0c425b1-4568-41e3-b614-1736d447ec32" />
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/67d519a9-4973-4e10-9e0c-201bb7e75ed9" />
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/028013ec-741d-44f0-8bdd-ef36dfc420e9" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/37417b14-db9f-4a6b-b6f0-fe7457f6d9ec" />
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/687ba954-83d6-4832-93d1-cfd8d089ea5a" />
+<img width="788" alt="image" src="https://github.com/user-attachments/assets/9a48880d-7312-4d13-9b37-cbf5d0e8a699" />
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/f8583083-802a-4978-a248-4f95adb962c5" />
+<img width="793" alt="image" src="https://github.com/user-attachments/assets/c2f87e18-45a0-4282-91d0-20622827e3d5" />
+<img width="796" alt="image" src="https://github.com/user-attachments/assets/2dd76d6a-cafb-4771-afdb-09072c1746a4" />
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/25181d09-232e-44fe-9d64-60ab8abc6ba2" />
+<img width="794" alt="image" src="https://github.com/user-attachments/assets/75a8073f-dc97-47eb-a8f1-c50e03cf6ede" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
