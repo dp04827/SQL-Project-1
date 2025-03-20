@@ -29,8 +29,11 @@ A large portion of what we would like this app to be used for is fitness. Many o
 ## **Person**  
 
 | Parameter | Type     | Description                | blah | blah |  
+
 | :-------- | :------- | :------------------------- | blah | blah |  
+
 | `api_key` | `string` | **Required**. Your API key | blah | blah |  
+
 
 # **Ten Queries**  
 
