@@ -97,7 +97,8 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 8. **Find the number of users who have logged sleep data and report the average sleep hours per day.**
    - **Purpose:** Managers need to assess user engagement with sleep tracking and the effectiveness of sleep-related recommendations.
-<img width="448" alt="image" src="https://github.com/user-attachments/assets/6a165ac9-5e73-484d-8e3e-8352c78c2b32" />
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/69320cae-cb39-4be2-b378-8af1559e4e5b" />
+
 
 9. **Retrieve users who have met their fitness goals based on both exercise and diet metrics.**
    - **Purpose:** A manager would need to know which users are achieving their fitness targets to identify success stories or patterns.
