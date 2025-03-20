@@ -33,15 +33,24 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 # **Ten Queries** 
 ## Simple Queries
-1. Retrieve all users who have registered in the system.
+1. **Retrieve all users who have registered in the system.**
    - **Purpose:** Managers need to know how many users have signed up to track growth and engagement.
 
 <img width="382" alt="image" src="https://github.com/user-attachments/assets/f68bccb0-d00a-4727-9796-f924cc6ec072" />  
 
-2. Get the percent of sleep a user was in REM sleep for and the date logged.
+  
+2. **Get the percent of sleep a user was in REM sleep for and the date logged.**
    - **Purpose:** Managers could use this to assess sleep habits and overall quality of sleep for users.  
 
-<img width="557" alt="image" src="https://github.com/user-attachments/assets/0ce1fbe4-4478-4578-972a-93170de2b66d" />
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/0ce1fbe4-4478-4578-972a-93170de2b66d" />  
+
+  
+3. **Retrieve the calories consumed and water intake from a user.**
+   - **Purpose:** This query helps the app collect the most basic nutrition data from users to make dietary recommendations.
+  
+<img width="393" alt="image" src="https://github.com/user-attachments/assets/7c436b33-7568-4eb7-9015-fc6ea31c8f52" />
+
+
 
 
 
