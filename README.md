@@ -79,7 +79,7 @@ A large portion of what we would like this app to be used for is fitness. Many o
 
 
 4. **Get the total hours of sleep recorded for a user in the last month**
--**Purpose:** Managers would use this to analyze user sleep patterns and how they correlate with fitness goals.
+- **Purpose:** Managers would use this to analyze user sleep patterns and how they correlate with fitness goals.
 
 # **Database Information**  
 Name of the database- al_Group_21484_G3
