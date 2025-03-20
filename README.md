@@ -38,8 +38,7 @@ A large portion of what we would like this app to be used for is fitness. Many o
 ## Simple Queries
 1. **Retrieve all users who have registered in the system.**
    - **Purpose:** Managers need to know how many users have signed up to track growth and engagement.
-<img width="880" alt="image" src="https://github.com/user-attachments/assets/b5d62c61-d454-4030-8df7-8c202c60ca8d" />
-
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/16fdc4c9-c25c-4e61-85f1-3d42bd6279c5" />
 
   
 2. **Get the percent of sleep a user was in REM sleep for and the date logged.**
