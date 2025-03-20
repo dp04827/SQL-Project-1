@@ -93,6 +93,7 @@ A large portion of what we would like this app to be used for is fitness. Many o
 9. **Retrieve users who have met their fitness goals based on both exercise and diet metrics.**
    - **Purpose:** A manager would need to know which users are achieving their fitness targets to identify success stories or patterns.
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/51c61be5-7c97-4987-8272-dad95808dfd1" />
+
 <img width="487" alt="image" src="https://github.com/user-attachments/assets/a11bc2fd-a249-4cd2-83a2-e63611b32800" />
 
 
@@ -100,6 +101,7 @@ A large portion of what we would like this app to be used for is fitness. Many o
 10. **Get the number of calories burned by each user, with their average heart rate, and identify the top 5 most active users.**
     - **Purpose:** Managers can use this data to understand which users are the most engaged and to adjust their strategies accordingly.
 <img width="493" alt="image" src="https://github.com/user-attachments/assets/18d375da-941e-4ec1-8902-65c7a3723550" />
+
 <img width="493" alt="image" src="https://github.com/user-attachments/assets/2ef1fb2f-05cf-42db-817a-e6705820ad7a" />
 
 
