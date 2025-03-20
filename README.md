@@ -31,7 +31,9 @@ A large portion of what we would like this app to be used for is fitness. Many o
  
 
 
-# **Ten Queries**  
+# **Ten Queries** 
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/f68bccb0-d00a-4727-9796-f924cc6ec072" />
+
 
 
 
