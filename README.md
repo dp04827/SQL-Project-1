@@ -43,12 +43,14 @@ A large portion of what we would like this app to be used for is fitness. Many o
   
 2. **Get the percent of sleep a user was in REM sleep for and the date logged.**
    - **Purpose:** Managers could use this to assess sleep habits and overall quality of sleep for users.
-<img width="557" alt="image" src="https://github.com/user-attachments/assets/0ce1fbe4-4478-4578-972a-93170de2b66d" />
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/28de916b-2c2a-4d83-b409-82443a12bf5f" />
+
 
   
 3. **Retrieve the calories consumed and water intake from a user.**
    - **Purpose:** This query helps the app collect the most basic nutrition data from users to make dietary recommendations.
-<img width="393" alt="image" src="https://github.com/user-attachments/assets/7c436b33-7568-4eb7-9015-fc6ea31c8f52" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/810ae4d4-cf9f-448d-b515-728deaa0e5db" />
+
 
 
 
